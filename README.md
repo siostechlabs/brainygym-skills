@@ -11,7 +11,7 @@ BrainyGym server to any agent that supports remote MCP.
 
 | Skill | Use it when you say… | What it does |
 | --- | --- | --- |
-| `learn-from-session` | "Teach me what we just did" | Turns the concepts behind your coding session (technologies, decisions, bugs and fixes) into a short course, after you approve the syllabus. No code or secrets leave your machine. |
+| `learn-from-session` | "Teach me what we just did" | Turns the concepts behind your coding session (technologies, decisions, bugs and fixes) into a short course, after you approve the syllabus. No code or secrets are sent to BrainyGym. |
 | `learn-codebase` | "Help me learn this repo" | Builds an onboarding course on how the current project works: architecture, data model, a request end to end, how to run and test it. |
 | `brainygym-course-design` | "Make me a course on X and save it to BrainyGym" | Designs a course (modules, readings, questions) in the format BrainyGym stores, and runs today's session with you. |
 

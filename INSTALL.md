@@ -9,10 +9,12 @@ BrainyGym is a learning app: it stores courses, schedules reviews with spaced re
 daily session on the web and the mobile app. Its server is `https://brainygym.com/mcp` (remote MCP,
 Streamable HTTP, OAuth). A BrainyGym account is free to start; users must be 18 or older.
 
-## Step 1: Already connected?
+## Step 1: Already set up?
 
-If the BrainyGym tools are already available to you (for example `list_my_courses` or `save_course`),
-skip to Step 4.
+If both the BrainyGym tools (for example `list_my_courses` or `save_course`) and the skills
+`learn-from-session`, `learn-codebase` and `brainygym-course-design` are available to you, skip to Step 4.
+If only the tools are available, install the skills in Step 2 but keep your existing MCP configuration:
+do not add the server a second time.
 
 ## Step 2: Install the skills and the server
 

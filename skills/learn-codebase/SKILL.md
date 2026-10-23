@@ -41,7 +41,8 @@ The course is stored in the user's BrainyGym account, outside this repository. B
   payments adapter"), not by internal names, and include no source code.
 - Never include credentials, tokens, keys, internal URLs or hostnames, customer data or personal data,
   whatever the answer.
-- For open-source projects, real module names and short excerpts from public code are fine.
+- Never copy source code into the course, even from an open-source project. For open-source projects you
+  may use real module names; any code example must be written from scratch as a generic illustration.
 
 ## 4. Propose the course and wait for approval
 
