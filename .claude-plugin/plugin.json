@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "brainygym",
+  "displayName": "BrainyGym",
+  "version": "1.1.0",
+  "description": "Turn what you learn with your AI into courses with spaced-repetition reviews: design and save courses, learn what a coding session or a codebase taught you, and train today's BrainyGym session.",
+  "author": { "name": "SiOS Tech Labs", "email": "support@brainygym.com", "url": "https://brainygym.com" },
+  "homepage": "https://brainygym.com/en/claude",
+  "repository": "https://github.com/siostechlabs/brainygym-skills",
+  "license": "MIT",
+  "keywords": ["learning", "spaced-repetition", "flashcards", "quiz", "courses", "onboarding", "study"]
+}

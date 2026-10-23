@@ -1,0 +1,30 @@
+{
+  "name": "brainygym",
+  "version": "1.1.0",
+  "description": "Turn what you learn with your AI into courses with spaced-repetition reviews.",
+  "author": { "name": "SiOS Tech Labs", "email": "support@brainygym.com", "url": "https://brainygym.com" },
+  "homepage": "https://brainygym.com/en/claude",
+  "repository": "https://github.com/siostechlabs/brainygym-skills",
+  "license": "MIT",
+  "keywords": ["learning", "spaced-repetition", "flashcards", "quiz", "courses", "onboarding", "study"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "BrainyGym",
+    "shortDescription": "Remember what you learn with AI",
+    "longDescription": "Design courses with your AI and train them in BrainyGym with spaced-repetition reviews. Turn a coding session or a codebase into a short course, quiz yourself, and keep reviewing on the web and the mobile app.",
+    "developerName": "SiOS Tech Labs",
+    "category": "Education",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://brainygym.com",
+    "privacyPolicyURL": "https://brainygym.com/en/privacy",
+    "termsOfServiceURL": "https://brainygym.com/en/terms",
+    "defaultPrompt": [
+      "Turn what we just did in this session into a BrainyGym course.",
+      "Help me learn this codebase with a BrainyGym course.",
+      "What do I need to review today in BrainyGym?"
+    ],
+    "brandColor": "#E55A2E",
+    "composerIcon": "./assets/brainygym-icon.png",
+    "logo": "./assets/brainygym-icon.png"
+  }
+}

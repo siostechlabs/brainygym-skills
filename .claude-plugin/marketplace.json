@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "brainygym",
+  "description": "BrainyGym skills and connector for Claude Code.",
+  "owner": { "name": "SiOS Tech Labs", "email": "support@brainygym.com", "url": "https://brainygym.com" },
+  "plugins": [
+    { "name": "brainygym", "source": "./", "category": "learning", "tags": ["learning", "spaced-repetition", "courses", "onboarding"] }
+  ]
+}
